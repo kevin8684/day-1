@@ -1,0 +1,48 @@
+body{
+    background-color:#000000;
+    color:#ffffff;
+}
+
+.container {
+    width: 90%;
+    background-color:orange;
+    margin: 0 auto;
+}
+header, nav, main, aside, footer{
+
+}
+
+footer{
+    margin-top:25px;
+    background-color:#00bfff;
+    padding:30px 0px;
+    border-top:3px solid #007fff;
+    display:block;
+}
+header{
+    background-color:blue;
+    height:75px;
+}
+nav{
+    background-color: red;
+    height: 75px;
+}
+main{
+    background-color: green;
+    width:70%;
+    height: 200px;
+    float:left;
+}
+
+aside{
+    background-color: pink;
+    height: 200px;
+    width:20px;
+}
+
+footer{
+    background-color: grey;
+}
+
+
+
